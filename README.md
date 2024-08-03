@@ -7,7 +7,7 @@ The Locally Weighted Ensemble (LWE) is a novel algorithm that combines multiple 
 transfer learning problems where training and test domains are different. The LWE assigns weights to individual models based
 on their local behaviors at each test example, which allows it to adapt to different test examples.
 The motivation behind this project is to improve the prediction accuracy in situations where the training and test domains
-differ, a common scenario in many real-world applications. The uploaded report provides an overview of the project, detailing the
+differ, a common scenario in many real-world applications. The uploaded report (project report.pdf) provides an overview of the project, detailing the
 different steps in the algorithm, the experiments conducted and results.
 
 
