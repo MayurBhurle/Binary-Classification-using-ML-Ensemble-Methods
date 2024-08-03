@@ -5,6 +5,8 @@
 4. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
 
 **Details:**
+
+
 **1.**
 In this project I have implemented Locally Weighted Ensemble Algorithm for Binary Classification Task on text data. The Locally Weighted Ensemble Algorithm was implemented on the 20 Newsgroup dataset and achieved an accuracy of over 75% for 3 out of 6 cases. The 20 Newsgroups dataset comprises approximately 20,000 newsgroup documents evenly distributed across 20 different topics. It's a widely used benchmark for text classification tasks in machine learning. The 20 news articles were divided into 4 categories "R", "S", "T" and "C" , the model was trained and tested on any two of these categories for an experiment. 
 
