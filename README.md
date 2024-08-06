@@ -1,8 +1,7 @@
 **Abstract:**
- 1. Addressed Transfer Learning problem where training and test dataset are related but differing.
-2. Achieved 70% accuracy by implementing Locally Weighted Ensemble algorithm on 20 newsgroup dataset,combining SVM, Logistic Regression and Decision Tree model predictions.
-3. Developed and implemented a Confidence based Ensemble Algorithm for stock classification using shareprice history, achieving 60% accuracy
-4. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
+1. Improved Transfer Learning by implementing LWE algo. on 20 newsgroup dataset achieving 70% accuracy.
+2. Boosted accuracy by 10% on time series data by developing a Confidence-based ensemble algorithm.
+3.. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
 
 **Details:**
 
