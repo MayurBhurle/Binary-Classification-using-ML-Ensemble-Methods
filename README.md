@@ -1,7 +1,7 @@
 **Abstract:**
 1. Improved Transfer Learning by implementing LWE algo. on 20 newsgroup dataset achieving 70% accuracy.
 2. Boosted accuracy by 10% on time series data by developing a Confidence-based ensemble algorithm.
-3.. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
+3. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
 
 **Details:**
 
