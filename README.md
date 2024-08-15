@@ -1,14 +1,13 @@
 **Abstract:**
 1. Improved Transfer Learning by implementing LWE algo. on 20 newsgroup dataset achieving 70% accuracy.
 2. Boosted accuracy by 10% on time series data by developing a Confidence-based ensemble algorithm.
-3.
-   "This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay."
+3. This project was done as part of the IE506-Machine-Learning-Principles-and-Techniques course (an Institute Elective Course), under the guidance of Prof. P. Balamurugan, IEOR Dept., IIT Bombay.
 
 **Details:**
 
 
 **1.**
-In this project I have implemented Locally Weighted Ensemble Algorithm for Binary Classification Task on text data. The Locally Weighted Ensemble Algorithm was implemented on the 20 Newsgroup dataset and achieved an accuracy of over 75% for 3 out of 6 cases. The 20 Newsgroups dataset comprises approximately 20,000 newsgroup documents evenly distributed across 20 different topics. It's a widely used benchmark for text classification tasks in machine learning. The 20 news articles were divided into 4 categories "R", "S", "T" and "C" , the model was trained and tested on any two of these categories for an experiment. 
+In this project I have implemented Locally Weighted Ensemble Algorithm for Binary Classification Task on text data. The Locally Weighted Ensemble Algorithm(using three base models a.SVM b.Decision Tree c. Logistic Reg.) was implemented on the 20 Newsgroup dataset and achieved an accuracy of over 75% for 3 out of 6 cases. The 20 Newsgroups dataset comprises approximately 20,000 newsgroup documents evenly distributed across 20 different topics. It's a widely used benchmark for text classification tasks in machine learning. The 20 news articles were divided into 4 categories "R", "S", "T" and "C" , the model was trained and tested on any two of these categories for an experiment. 
 
 
 The algorithm was originally developed by Jing Gao, Wei Fan, Jing Jiang and Jiawei Han as described in the research paper "Knowledge transfer via multiple model local structure mapping, 2008". Please read the "project report. pdf" for detailed description and refer the ".ipynb" files for the python code. The 6 different ipynb files represent 6 different experiments with the 20 newsgroup dataset.
